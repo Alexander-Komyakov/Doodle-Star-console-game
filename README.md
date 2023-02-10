@@ -1,7 +1,7 @@
 # Doodle-Star-console-game
 My old console game c++
 
-Source coude lost :-(
+Source code lost :-(
 
 # Screenshot
 
