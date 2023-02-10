@@ -3,6 +3,10 @@ My old console game c++
 
 Source coude lost :-(
 
+ScreenShot
+
+<img src="./screenshot1.png"> <img src="./screenshot2.png">
+<img src="./screenshot3.png">
 # Created by Alexander Komyakov
 For any kind of help, support, suggetion and request ask in me
 ## Follow on:
